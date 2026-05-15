@@ -1,4 +1,4 @@
-# OpenVAS# OpenVAS
+# OpenVAS
 
 > **Developed by:** Eng. Abdllraqeeb AL Hijir
 **Project Supervisor:** Eng.  Abdulrazzaq Alsamawi
